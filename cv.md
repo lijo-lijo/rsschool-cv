@@ -35,3 +35,9 @@ function alphabetPosition(text) {
   }).filter((item) => item !== '').join(' ');
 }
 ```
+
+***
+
+### Examples of projects
+* [CSSBayan project](https://lijo-lijo.github.io/CSS_Bayan/)
+* [Shelter-project](https://rolling-scopes-school.github.io/lijo-lijo-JSFE2023Q1/shelter/pages/main/)
