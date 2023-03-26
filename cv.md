@@ -41,3 +41,8 @@ function alphabetPosition(text) {
 ### Examples of projects
 * [CSSBayan project](https://lijo-lijo.github.io/CSS_Bayan/)
 * [Shelter-project](https://rolling-scopes-school.github.io/lijo-lijo-JSFE2023Q1/shelter/pages/main/)
+
+***
+
+### Education
+Belarusian State University of Informatics and Radioelectronics, Faculty of Computer Systems and Networks, Information Technology Software (3 course).
