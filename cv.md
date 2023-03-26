@@ -20,3 +20,18 @@ I hope my interest in the Frontend, responsibility and the desire to gain new kn
 * JavaScript
 * Git
 * Algorithms and data structures
+
+***
+
+### Code example
+Task ["Replace With Alphabet Position"](https://www.codewars.com/kata/546f922b54af40e1e90001da) from CodeWars: *In this kata you are required to, given a string, replace every letter with its position in the alphabet.If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc.*
+```
+function alphabetPosition(text) {
+  return text.split('').map((item) => {
+    if (item.toLowerCase() >= 'a' && item.toLowerCase() <= 'z') {
+      return item.toLowerCase().codePointAt(0) - 'a'.codePointAt(0) + 1;
+    }
+    return '';
+  }).filter((item) => item !== '').join(' ');
+}
+```
