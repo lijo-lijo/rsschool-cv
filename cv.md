@@ -46,3 +46,8 @@ function alphabetPosition(text) {
 
 ### Education
 Belarusian State University of Informatics and Radioelectronics, Faculty of Computer Systems and Networks, Information Technology Software (3 course).
+
+***
+
+### English
+* B1 (Intermediate)
